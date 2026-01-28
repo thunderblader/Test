@@ -87,7 +87,7 @@ export default function Home() {
               Real-time Analytics
             </h3>
             <p className="text-gray-600 dark:text-gray-300">
-              Monitor your app's performance with detailed insights and metrics in real-time.
+              Monitor your app&apos;s performance with detailed insights and metrics in real-time.
             </p>
           </div>
         </div>
